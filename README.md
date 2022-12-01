@@ -1,6 +1,6 @@
-# BTA Babric Minimal Mod
+# Autosave Fix
 
-Babric example mod, but without the examples.
+Babric mod which increases the autosave frequency period.
 
 ## Prerequisites
 - JDK for Java 17 ([Eclipse Temurin](https://adoptium.net/temurin/releases/) recommended)
@@ -11,7 +11,7 @@ Babric example mod, but without the examples.
 
 1. Download or clone this repository and put it somewhere.
 ```
-git clone https://github.com/Turnip-Labs/bta-minimal-mod.git
+git clone https://github.com/Turnip-Labs/autosave-fix.git
 ```
 
 2. Import the project in IntelliJ IDEA, close it and open it again.
